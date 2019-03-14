@@ -1,8 +1,8 @@
 # Chinese-English Translation
 
-Taught by Sandra Yu
+Taught by **Sandra Y.**
 
-Documented by Still Hsu
+Documented by **Still H.**
 
 ## Translation Notes
 
