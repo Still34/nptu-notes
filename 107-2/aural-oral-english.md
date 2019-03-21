@@ -62,3 +62,66 @@ I. 1st Main Point
 > |ch. 	   	| chapter  	   	   	|
 > |sec.	   	| section  	   	   	|
 > |ref.	   	| reference	   	   	|
+
+---
+
+## Types of Speeches & Speech Purposes
+
+1. Informative speech
+2. Persuasive speech
+3. Acceptance speech
+4. Inaugural speech
+5. Commencement speech
+6. Eulogy
+7. Impromptu
+
+### Benefits of Public Speaking
+
+1. Personal benefits
+   - Develop self-confidence
+2. Professional benefits
+   - Interviews, getting job offers & advancing in a company
+3. Public benefits
+   - Make your voice heard in society
+
+### Challenges to Speaking
+
+1. Analyzing the audience & preparing sufficient background information
+2. Lack of English vocabulary and such to express clearly the concepts & ideas you want to convey
+3. Stage fright (natural of public speaking) 
+4. Traditional Asian education system
+
+### Tips to Overcome Challenges
+
+1. Stay informed of current events & "hot topics"
+2. Learn key vocabularies, words, phrases related to specific issues & topics
+3. Learn to anticipate when you might be asked to speak
+4. Practice often in as authentic situations as possible
+
+### Organize an Impromptu Speech (3~5 minutes)
+
+1. Introduction (30 secs ~ 1 min)
+   - Catch audience's attention in 1st sentence
+     - Give a brief interesting story
+     - Ask a question
+     - State an interesting or unusual fact, statistics, but try to make it personal
+     - Use a relevant quotation
+     - Stimulate the audience's imagination
+     - Refer to common beliefs, values, relationships, interests, etc.
+   - Introduce topic & clearly state your central idea (i.e., thesis statement)
+2. Body (2 ~ 3 mins)
+   - Support & develop your central idea
+     - Logical reasons
+     - Personal examples or experiences, stories, etc.
+   - Limit key supporting points to 2~3 organizing key points
+     - Compare/contrast
+     - Problem/solution
+     - Cause/effects
+     - Chronological order
+   - Limit key supporting points to one or several words
+3. Conclusion (30 secs ~ 1 min)
+   - Review central idea & key supporting points in one sentence
+   - Close in a memorable way
+     - Use one of the attention-getters (e.g. famous quote)
+     - Look to the future
+     - Call for action
