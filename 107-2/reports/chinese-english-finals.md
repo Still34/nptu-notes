@@ -1,6 +1,5 @@
 # Chinese -> English Translation Analysis
 
-> [!NOTE]
 > This analysis focuses on the episode 「我家兒子愛搞鬼」, which
 > you can learn more about 
 > [here](https://www.pts.org.tw/dinner11/ep_8.html).
@@ -9,12 +8,12 @@
 
 ![Image](https://www.pts.org.tw/dinner5/images/TT_4.gif)
 
-### **Text Comparison**
+### Text Comparison
 
 >「誰來晚餐」
 > ”Guess Who”
 
-### **Analysis**
+### Analysis
 
 「誰來晚餐」 is a reality TV show televised by the Taiwan Public
 Television Service Online, in which the guest gets to pick celebrities
@@ -39,12 +38,12 @@ the core motto of the show in the title.
 
 ## Souvenir vs. Keepsakes
 
-### **Text Comparison**
+### Text Comparison
 > 「就是紀念以前曾經的過去」
 > 
 > ”They’re keepsakes from the past.”
 
-### **Analysis**
+### Analysis
 
 > **Definition of "keepsake"**
 > 
@@ -61,7 +60,7 @@ It's also interesting to note the differences between a "keepsake" and
 a "souvenir"; some may only know the word souvenir, as it appears 
 more frequently in our day-to-day life.
 
-> [!NOTE]
+> [!TIP]
 > "As nouns the difference between keepsake and souvenir is that 
 > **keepsake** is some *object given by a person* and retained in 
 > memory of something or someone; something kept for sentimental or 
@@ -71,14 +70,14 @@ more frequently in our day-to-day life.
 
 ## In-vogue Yearbook
 
-### **Text Comparison**
+### Text Comparison
 > 「我覺得那個時候我們大概是在全年級就是最潮流的一個，
 > 那個畢業紀念冊的版面設計這樣子。」
 > 
 > ”Back then, this was considered our entire year's most in-vogue 
 > page spread design for the graduation yearbook.”
 
-### **Analysis**
+### Analysis
 
 > **Definition of "vogue"**
 > 
@@ -95,7 +94,7 @@ years.
 
 ![Data](chinese-english-finals-assets/vogue-screenshot.png)
 
-### **Alternative Proposition**
+### Alternative Proposition
 
 The potential issue of using a less common vocabulary is the risk
 of alienating the audience in a sense that only few of those viewers
@@ -115,14 +114,14 @@ Chinese ability may be less than desirable.
 
 ## Lion's Head
 
-### **Text Comparison**
+### Text Comparison
 > 「以前就是我媽很愛做獅子頭。」
 > 
 > ”Mom used to like cooking braised pork balls.”
 
-### **Analysis**
+### Analysis
 
-#### "Lion's Head"
+#### Lion's Head
 
 `獅子頭` is a traditional meatball dish that originated in China.
 When translating this dish, several translation techniques are
@@ -148,7 +147,7 @@ Therefore, I do believe using `braised meatball` or something along
 the line might be better, as `meatball` has a much smaller room for
 misinterpretation. 
 
-### **Alternative Proposition**
+### Alternative Proposition
 
 ```diff
 + Mom used to like cooking braised meatballs.
@@ -157,12 +156,12 @@ misinterpretation.
 
 ## Sauté
 
-### **Text Comparison**
+### Text Comparison
 > 「這個一定要爆到很老。」
 > 
 > ”It needs to be cooked thoroughly.”
 
-### **Analysis**
+### Analysis
 
 「爆香」 is used to describe the act of sautéing; in other words, 
 fried quickly in a little hot fat. Due to the nature of this word,
@@ -176,12 +175,12 @@ thoroughly" still makes sense, and therefore is acceptable.
 
 ## "Gherkin" vs. "Cucumber"
 
-### **Text Comparison**
+### Text Comparison
 > 「昨天晚上自己拌的小黃瓜。」
 > 
 > ”I prepared this gherkin salad last night.”
 
-### **Analysis**
+### Analysis
 
 > **Definition of "gherkin"**
 > 
