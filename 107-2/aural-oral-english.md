@@ -125,3 +125,16 @@ I. 1st Main Point
      - Use one of the attention-getters (e.g. famous quote)
      - Look to the future
      - Call for action
+
+## Assignments
+
+### Assignment #1
+
+Identify
+1. 3 main parts (intro, body, conclusion)
+2. thesis statement
+3. how is speech introduced & concluded
+4. key supporting points in body
+5. how points are organized & developed?
+6. transitional words/phrases
+7. any ideas to make it better?
