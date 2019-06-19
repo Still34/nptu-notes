@@ -1,9 +1,5 @@
 # Chinese -> English Translation Analysis
 
-> This analysis focuses on the episode 「我家兒子愛搞鬼」, which
-> you can learn more about 
-> [here](https://www.pts.org.tw/dinner11/ep_8.html).
-
 ## The Show
 
 ![Image](https://www.pts.org.tw/dinner5/images/TT_4.gif)
@@ -14,6 +10,11 @@
 > ”Guess Who”
 
 ### Analysis
+
+> [!NOTE]
+> This analysis focuses on the episode 「我家兒子愛搞鬼」, which
+> you can learn more about 
+> [here](https://www.pts.org.tw/dinner11/ep_8.html).
 
 「誰來晚餐」 is a reality TV show televised by the Taiwan Public
 Television Service Online, in which the guest gets to pick celebrities
